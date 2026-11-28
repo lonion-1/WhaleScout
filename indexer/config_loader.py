@@ -1,7 +1,7 @@
 # Copyright (c) 2026 EazyWhale (https://github.com/lonion-1)
 # SPDX-License-Identifier: MIT
 """Pembaca & validator konfigurasi TOML modular (indexer.toml + legal_profiles.toml + categories/*.toml).
-Mendukung tomllib (Python 3.11+), tomli, serta fallback parser TOML murni tanpa dependensi eksternal.
+Mendukung tomllib, tomli, serta fallback parser TOML murni tanpa dependensi eksternal.
 """
 
 from __future__ import annotations
